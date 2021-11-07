@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bai1/bai1.iml" filepath="$PROJECT_DIR$/bai1/bai1.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2_conglap/bai2_vonglap.iml" filepath="$PROJECT_DIR$/bai2_conglap/bai2_vonglap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai3_mang_phuongThuc/bai3_mang_phuongThuc.iml" filepath="$PROJECT_DIR$/bai3_mang_phuongThuc/bai3_mang_phuongThuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2/btvn.iml" filepath="$PROJECT_DIR$/bai2/btvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>
