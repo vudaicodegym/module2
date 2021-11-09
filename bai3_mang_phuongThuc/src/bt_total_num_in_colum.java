@@ -19,10 +19,10 @@ public class bt_total_num_in_colum {
         }
         int total = 0;
         System.out.println("nhập cột muốn tính tổng");
-        int colum = scanner.nextInt();
-        for (int k = 0; k < array.length; k++){
+        int colum = scanner.nextInt() - 1;
+        for(int k = 0; k < array.length; k++){
             total += array[k][colum];
         }
-        System.out.println("tổng của các phần tử trong cột " + colum + "là: " + total);
+        System.out.println("tổng của các phần tử trong cột " + (colum + 1) + " là: " + total);
     }
 }
