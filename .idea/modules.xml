@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/bai5_access_modifier/bai5_access_modifier.iml" filepath="$PROJECT_DIR$/bai5_access_modifier/bai5_access_modifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai6_Inheritance_ke_thua/bai6_Inheritance_ke_thua.iml" filepath="$PROJECT_DIR$/bai6_Inheritance_ke_thua/bai6_Inheritance_ke_thua.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai7_interface_&amp;_abstrac_class/bai7_interface_&amp;_abstrac_class.iml" filepath="$PROJECT_DIR$/bai7_interface_&amp;_abstrac_class/bai7_interface_&amp;_abstrac_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai8_clean_code/bai8_clean_code.iml" filepath="$PROJECT_DIR$/bai8_clean_code/bai8_clean_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai9_test_first_and_TDD/bai9_test_first_and_TDD.iml" filepath="$PROJECT_DIR$/bai9_test_first_and_TDD/bai9_test_first_and_TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2/btvn.iml" filepath="$PROJECT_DIR$/bai2/btvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/module2.iml" filepath="$PROJECT_DIR$/.idea/module2.iml" />
     </modules>

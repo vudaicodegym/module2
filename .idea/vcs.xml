@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BTVN-VongLap-MD2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BTVN_QLNV_Tuan2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apj-calculator" vcs="Git" />
   </component>
 </project>
