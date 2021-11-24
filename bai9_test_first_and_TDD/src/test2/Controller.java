@@ -32,15 +32,18 @@ public class Controller {
         return newStaff;
         }
         //2 xóa
-    public static int findIndexById(Staff[] listStaff){
+    public static int findIndexById(Staff[] listStaff) {
         System.out.println("nhập id thằng muốn xử");
         int searchedId = Integer.parseInt(scanner.nextLine());
         int index = -1;
         for (int i = 0; i < listStaff.length; i++) {
-            if (searchedId == listStaff[i].getId()){
-                index = i;
+            if (searchedId == listStaff[i].getId()) {
+                index = listStaff[i].getId();
+                break;
             }
-        }return index;
+
+        }  System.out.println(index);
+        return index;
     }
     public static Staff[] delete(Staff[] listStaff){
         int index = findIndexById(listStaff);
@@ -63,12 +66,13 @@ public class Controller {
         String newPhoneNumber = scanner.nextLine();
         System.out.println("nhập địa chỉ mới");
         String newAddress = scanner.nextLine();
-        Staff newStaff = new Staff(newName, newPhoneNumber,newAddress);
+
         for (int i = 0; i < listStaff.length ; i++) {
             if (listStaff[i].getId() == index){
                 listStaff[i].setName(newName);
                 listStaff[i].setPhoneNumber(newPhoneNumber);
                 listStaff[i].setAddress(newAddress);
+                break;
             }
         }
         return listStaff;

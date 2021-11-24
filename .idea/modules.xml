@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bai1/bai1.iml" filepath="$PROJECT_DIR$/bai1/bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai10_DSA_list/bai10_DSA_list.iml" filepath="$PROJECT_DIR$/bai10_DSA_list/bai10_DSA_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai11_generic_stack_queque/bai11_generic_stack_queque.iml" filepath="$PROJECT_DIR$/bai11_generic_stack_queque/bai11_generic_stack_queque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai12_java_colection_framework/bai12_java_colection_framework.iml" filepath="$PROJECT_DIR$/bai12_java_colection_framework/bai12_java_colection_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai13_thuat_toan_tim_kiem/bai13_thuat_toan_tim_kiem.iml" filepath="$PROJECT_DIR$/bai13_thuat_toan_tim_kiem/bai13_thuat_toan_tim_kiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai14_thuat_toan_sa[)xep/bai14_thuat_toan_sa[)xep.iml" filepath="$PROJECT_DIR$/bai14_thuat_toan_sa[)xep/bai14_thuat_toan_sa[)xep.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2/bai2.iml" filepath="$PROJECT_DIR$/bai2/bai2.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai2_conglap/bai2_vonglap.iml" filepath="$PROJECT_DIR$/bai2_conglap/bai2_vonglap.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai3_mang_phuongThuc/bai3_mang_phuongThuc.iml" filepath="$PROJECT_DIR$/bai3_mang_phuongThuc/bai3_mang_phuongThuc.iml" />
